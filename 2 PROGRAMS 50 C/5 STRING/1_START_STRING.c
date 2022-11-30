@@ -57,13 +57,13 @@ int main()
 #include <stdio.h>
 int main()
 {
-    char name[9]={"Mayur"}
+    char name[9] = {"Mayur"}
 
-    printf("\t Headline \n");
+    printf("\t string \n");
 
     while (i < 8)
     {
-        printf("%c",name[i]);
+        printf("%c", name[i]);
         i++;
     }
     return 0;
