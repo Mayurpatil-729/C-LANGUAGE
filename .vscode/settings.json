@@ -31,6 +31,8 @@
     "2_Selection_sort.C": "cpp",
     "stdio.h": "c",
     "FactSimp.C": "cpp",
-    "FibSimp.C": "cpp"
+    "FibSimp.C": "cpp",
+    "FUN2.C": "cpp",
+    "3_STRUCTURE.C": "cpp"
   }
 }
