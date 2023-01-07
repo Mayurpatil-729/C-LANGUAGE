@@ -5,7 +5,7 @@ int main()
 {
     // int a = getc(stdin);
     int b = getchar();
-
+//
     printf("%c", b);
     return 0;
 

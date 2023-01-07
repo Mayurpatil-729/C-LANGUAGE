@@ -4,7 +4,7 @@
 int main()
 {
     int a, n;
-
+//
     printf("\t Title\n");
     printf("Enter : ");
     scanf("%d", &n);
