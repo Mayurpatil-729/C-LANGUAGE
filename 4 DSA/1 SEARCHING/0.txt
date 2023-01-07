@@ -1,0 +1,66 @@
+
+# Searching  : 
+means to find whether a particular value is present in an array or not. If the value is 
+present in the array, then searching is said to be successful and the searching process gives the 
+location of that value in the array.
+
+// LINEAR SEARCH  ===>
+
+LINEAR_SEARCH(A, N, VAL)
+Step 1: [INITIALIZE] SET POS=-1
+Step 2: [INITIALIZE] SETI=1
+Step 3: Repeat Step 4 while I<=N
+Step 4: IF A[I] = VAL
+            SET POS=I
+            PRINT POS
+                Go to Step 6
+        [END OF IF]
+    [END OF LOOP]
+            SETI=I+1
+Step 5: IF POS = –1
+            PRINT VALUE IS NOT PRESENT IN THE ARRAY                    
+[END OF IF]
+Step 6: EXIT
+
+//! Linear search executes in O(n) time where n is the number of elements in the array
+//! best case ===> when VAL is equal to the first element of the array.
+//! worst case ===> when either VAL is not present in the array or it is equal to the last element of the array.
+
+
+// BINARY SEARCH  ===>
+
+BINARY_SEARCH(A, lower_bound, upper_bound, VAL)
+Step 1: [INITIALIZE] SET BEG = lower_bound
+                        END = upper_bound, POS=-1
+Step 2: Repeat Steps 3 and 4 while BEG <= END
+Step 3: SET MID = (BEG + END)/2
+Step 4: IF A[MID] = VAL
+                SET POS = MID
+                PRINT POS
+                Go to Step 6
+                ELSE IF A[MID] > VAL
+                SET END = MID-1
+        ELSE
+                SET BEG = MID+1
+            [END OF IF]
+        [END OF LOOP]
+Step 5: IF POS=-1
+            PRINT “VALUE IS NOT PRESENT IN THE ARRAY”
+        [END OF IF]
+Step 6: EXIT
+
+* TIME COMPLEXITY
+1 ] Best case complexity    : O(1)
+2 ] Average case complexity : O(log n)
+3 ] worst case complexity   : O(log n )
+
+* SPACE COMPLEXITY
+
+1 ] space complexity : O(1)
+
+
+// complexity of the binary search algorithm can be expressed as f(n), 
+        where n is the number of elements in the  array
+
+// complexity of the algorithm is calculated depending on the number of comparisons that are made. we see that with each comparison, the size of the segment where search has to be made is reduced to half.In order to locate a particular value in the array, the total number of comparisons that will be made is given as
+2f(n) > n or f(n) = log2n

@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main()
 {
-    int  n,a;
+    int n, a;
 
     printf("\t operators\n");
     printf("Enter any number : ");

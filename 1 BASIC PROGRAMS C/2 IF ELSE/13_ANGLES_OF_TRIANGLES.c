@@ -15,7 +15,6 @@ int main()
         printf("\n\t Enter the valid angles");
     else
     {
-
         if (a1 + a2 + a3 == 180)
             printf("\n\t THIS IS ANGLES OF TRIANGLE ");
         else

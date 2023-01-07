@@ -33,6 +33,30 @@
     "FactSimp.C": "cpp",
     "FibSimp.C": "cpp",
     "FUN2.C": "cpp",
-    "3_STRUCTURE.C": "cpp"
-  }
+    "3_STRUCTURE.C": "cpp",
+    "BFS.C": "cpp",
+    "Deque_Array.C": "cpp",
+    "LinkedStack.C": "cpp",
+    "SLL.C": "cpp",
+    "Stack Using Array.C": "cpp",
+    "8_Linked_Stack_Queue.C": "cpp",
+    "CIRQUE.C": "cpp",
+    "LinkedQueue.C": "cpp",
+    "1_Sequential_Search.C": "cpp",
+    "Insertionsort.C": "cpp",
+    "Hash_Table.C": "cpp",
+    "stdlib.h": "c",
+    "AddPolynomials.C": "cpp",
+    "1_SINGLE_LINKED_LIST.C": "cpp",
+    "BST.C": "cpp",
+    "DFS.C": "cpp",
+    "Quicksort.C": "cpp",
+    "Quicksort_another.C": "cpp",
+    "POSTEV.C": "cpp",
+    "InfixtoPostfix.C": "cpp",
+    "Infix_to_Prefix.C": "cpp",
+    "Infix_to_Postfix.C": "cpp"
+  },
+  "cSpell.enabled": false,
+  "C_Cpp.errorSquiggles": "disabled"
 }
