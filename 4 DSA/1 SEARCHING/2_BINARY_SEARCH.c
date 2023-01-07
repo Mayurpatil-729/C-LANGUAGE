@@ -50,3 +50,16 @@ Enter 10 elements of array
 13 25 37 42 54 67 71 83 91 97
 Enter key= 91
 Element 91 is Found at 8 position */
+
+
+
+
+
+
+
+
+
+
+
+
+
