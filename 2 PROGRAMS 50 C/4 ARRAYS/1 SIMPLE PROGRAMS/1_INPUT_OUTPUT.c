@@ -36,3 +36,25 @@ int main()
 //                               ==all values are garbage value
 
 // GLOBAL DECLARATIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

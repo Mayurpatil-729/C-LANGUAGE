@@ -55,7 +55,8 @@
     "POSTEV.C": "cpp",
     "InfixtoPostfix.C": "cpp",
     "Infix_to_Prefix.C": "cpp",
-    "Infix_to_Postfix.C": "cpp"
+    "Infix_to_Postfix.C": "cpp",
+    "CONDITIONAL_COMPILATION_DIRECTIVES.C": "cpp"
   },
   "cSpell.enabled": false,
   "C_Cpp.errorSquiggles": "disabled"

@@ -1,4 +1,4 @@
-                     // Simple :
+// Simple :
 
 // #include <stdio.h>
 // int main()
@@ -31,7 +31,7 @@
 //     // Coded by Mayur
 // }
 
-                       // Using  Flag : Most efficient
+// Using  Flag : Most efficient
 
 #include <stdio.h>
 int main()
@@ -52,7 +52,7 @@ int main()
         {
             if (num % i == 0)
             {
-                flag = 1;                     //use as a signed,symbol
+                flag = 1; // use as a signed,symbol
             }
 
             i = i + 1;
