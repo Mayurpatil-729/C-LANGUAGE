@@ -56,7 +56,13 @@
     "InfixtoPostfix.C": "cpp",
     "Infix_to_Prefix.C": "cpp",
     "Infix_to_Postfix.C": "cpp",
-    "CONDITIONAL_COMPILATION_DIRECTIVES.C": "cpp"
+    "CONDITIONAL_COMPILATION_DIRECTIVES.C": "cpp",
+    "12DAA_Warshalls Algorithm.C": "cpp",
+    "6DAA_Kruskals Algo Greedy.C": "cpp",
+    "1DAA_Quicksort.C": "cpp",
+    "3DAA_Strassens Matrix Multiplication.C": "cpp",
+    "15 NAIVE.C": "cpp",
+    "2DAA_Mergersort.C": "cpp"
   },
   "cSpell.enabled": false,
   "C_Cpp.errorSquiggles": "disabled"
