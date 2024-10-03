@@ -1,4 +1,4 @@
-// Click on Submit in the IDE to proceed
+
 #include <stdio.h>
 #include <stdbool.h>
 

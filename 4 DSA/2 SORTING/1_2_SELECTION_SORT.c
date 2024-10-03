@@ -5,12 +5,9 @@
 int main()
 {
   int array[100], i, j, k, n, smallest, position, temp;
-
   printf("Enter number of elements\n");
   scanf("%d", &n);
-
   printf("Enter %d integers\n", n);
-
   for (i = 0; i < n; i++)
   {
     scanf("%d", &array[i]);
